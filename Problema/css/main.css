@@ -1,0 +1,96 @@
+*{
+	
+	font-family: 'PT Serif Caption', serif;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	color: silver;
+	font-size: 13px;
+}
+header{
+	background-color: #322E39;
+	padding: 10px;
+}
+header nav{
+	margin: 30px;
+}
+.style-box{
+	box-shadow: 2px 2px 2px 2px gray;
+}
+.col-6 a{
+	text-decoration: none;
+	font-family: 'PT Serif Caption', serif;
+	color:white;
+	margin: 20px;
+}
+.col-6 a:hover{
+	text-decoration: none;
+	font-family: 'PT Serif Caption', serif;
+	color: #EE2465 !important;
+	margin: 20px;
+}
+.the{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 40px;
+	color: white;
+}
+.Gen{
+	color: white;
+	font-size: 50px;
+	font-weight: 800;
+
+}
+h1{
+	font-family: 'PT Serif Caption', serif;
+}
+section{
+	background-color: #DDDDE8;
+}
+.box-img img{
+	width: 95%;
+}
+.col-5 a{
+	background-color: silver;
+	padding: 9px 20px;
+	border-radius: 30px;
+    color: white;
+    text-decoration: none;
+}
+.text-center a{
+	background-color: #6C6577;
+	padding: 9px 20px;
+	border-radius: 30px;
+    color: white;
+    text-decoration: none;
+}
+.col-5 a:hover, .text-center a:hover{
+	background-color: white;
+	padding: 9px 20px;
+	border-radius: 30px;
+    color: gray;
+    text-decoration: none;
+    border:1px solid silver;
+}
+.col-6 a, p a{
+	text-decoration: none;
+	color: #888;
+	margin-left: 0px;
+	margin-right: 10px;
+
+}
+.col-6 a:hover, p a:hover{
+	text-decoration: none;
+	color: #6C6577;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+.bg-white .col-6 img{
+	width: 100%;
+}
+h4{
+	color: gray;
+}
+.fa-twitter{
+	font-size: 150px;
+	color: silver;
+}
